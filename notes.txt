@@ -1,0 +1,19 @@
+AI Outreach Generator Notes
+
+Project Structure:
+
+outreach.mjs → main script that calls AI
+leads.csv → list of businesses
+.env → API key
+node_modules → installed libraries
+
+Workflow:
+leads.csv → outreach.mjs → OpenAI API → outreach_output.txt
+
+Commands I use a lot:
+
+cd ~/projects/ai-outreach-generator
+ls
+ls -a
+pwd
+node outreach.mjs leads.csv

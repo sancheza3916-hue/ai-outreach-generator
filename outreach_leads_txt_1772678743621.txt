@@ -1,0 +1,69 @@
+Generated: 2026-03-05T02:45:43.621Z
+Tone: friendly | Max words: 130
+Businesses: 5
+
+------------------------------
+BUSINESS: Better Buzz Coffee
+
+Subject: Quick AI automation idea for Better Buzz Coffee
+
+Hi Better Buzz Coffee team,  
+
+I’m reaching out because I help coffee brands automate customer and ops workflows with practical AI. One quick win: an AI “Order & Pickup Assistant” that answers common questions (menu, allergens, hours, nearest location), routes catering inquiries to the right store, and collects pre-orders via your website/SMS—then pushes details into your POS/email so staff aren’t stuck on the phone.  
+
+If you’re open to it, I can share a 1-page mock flow and what it would take to launch in a couple weeks.  
+
+Would you be up for a 10–15 min chat next week?
+
+------------------------------
+BUSINESS: Bird Rock Coffee Roasters
+
+Subject: Quick AI automation idea for Bird Rock Coffee Roasters
+
+Hi Bird Rock Coffee Roasters team,  
+
+I’m reaching out because we help retail + hospitality brands save staff time with lightweight AI automations. One practical idea: an AI “order & FAQ assistant” that answers common questions (locations/hours, menu/allergens, wholesale, gift cards), routes catering/wholesale leads to the right inbox, and creates a clean daily summary for your team—reducing phone calls and missed messages across web + email.  
+
+If you’re curious, I can share a simple outline and estimated effort/cost based on your current tools.  
+
+Open to a 10–15 min chat next week?
+
+------------------------------
+BUSINESS: Communal Coffee
+
+Subject: Quick AI automation idea for Communal Coffee
+
+Hi Communal Coffee team,  
+
+I’m reaching out because I help cafés use simple AI automations to save staff time without changing the guest experience. One practical idea: set up an AI “Inbox Assistant” that monitors your website/contact form + Instagram DMs, answers common questions (hours, menu, locations, catering, gift cards), and routes anything complex to the right person—so messages don’t pile up during rushes.  
+
+If you’d like, I can share a quick example workflow and what it would take to implement for Communal Coffee.  
+
+Open to a 10–15 minute chat next week?
+
+------------------------------
+BUSINESS: James Coffee Co.
+
+Subject: Quick AI automation idea for James Coffee Co.
+
+Hi James Coffee Co. team,
+
+I’m reaching out because I help hospitality brands use AI to save time and boost repeat orders. One practical idea: an AI “order + info” assistant on your site that answers FAQs (hours, locations, menu, allergens), recommends products, and guides customers to online ordering or gift cards—then hands off to a human if needed. It can also capture emails/SMS for updates and seasonal drops.
+
+If you’re open to it, I can share a quick demo and rough ROI estimate tailored to your flow.
+
+Would you be up for a 10–15 min chat next week?
+
+------------------------------
+BUSINESS: Portal Coffee
+
+Subject: Quick AI automation idea for Portal Coffee
+
+Hi Portal Coffee team,  
+
+I’m reaching out because I help small businesses use AI to save time on repetitive work. One practical idea for Portal Coffee: an AI “order + FAQ” assistant that lives on your website/Instagram DM, answers common questions (hours, menu, allergens, Wi‑Fi), takes pre-orders for pickup, and sends them to your POS or a simple Google Sheet—reducing missed messages and freeing up staff during rushes.  
+
+If you’d like, I can share a quick mockup and what it would take to set up.  
+
+Open to a 10–15 minute chat this week?
+

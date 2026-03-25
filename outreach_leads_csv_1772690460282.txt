@@ -1,0 +1,97 @@
+Generated: 2026-03-05T06:01:00.282Z
+Tone: friendly | Max words: 130
+Businesses: 6
+
+------------------------------
+BUSINESS: business,neighborhood,channel,pain_point
+
+SUBJECT OPTIONS:
+1. Quick AI idea to cut admin time for {{business}}
+2. Automating one repeat task at {{business}} (no new tools required)
+3. {{business}} + a simple AI workflow to reduce {{pain_point}}
+
+EMAIL:
+Hi {{first_name}} — I’m reaching out because I work with {{neighborhood}} businesses to remove busywork with lightweight AI automations.
+
+One practical idea: set up an AI assistant that captures inquiries from your website/email, asks 2–3 qualifying questions, and automatically routes them to the right person (or creates a ticket), so fewer requests slip through and {{pain_point}} drops.
+
+If it’s helpful, I can share a quick example tailored to {{business}}. Open to a 10–15 minute chat next week?
+
+------------------------------
+BUSINESS: Better Buzz Coffee,Pacific Beach,Instagram DMs,Too many repeated questions during rush
+
+SUBJECT OPTIONS:
+1. Quick idea to cut repeat DMs during rush
+2. Better Buzz PB: automate your IG FAQ replies
+3. Less time answering DMs, more time serving coffee
+
+EMAIL:
+Hi Better Buzz Coffee (Pacific Beach) team — noticed your Instagram DMs get slammed with the same questions during peak hours (hours, wait times, menu items, etc.).  
+
+I help local shops use simple AI automation to handle that. One practical idea: an IG DM auto-reply that instantly answers your top FAQs and routes anything unusual to a manager—so customers get fast answers without interrupting the line.  
+
+If you’re open to it, can we do a quick 10–15 minute chat this week to see if it’d fit your workflow?
+
+------------------------------
+BUSINESS: Bird Rock Coffee Roasters,La Jolla,Website contact form,Wholesale/catering inquiries get buried
+
+SUBJECT OPTIONS:
+1. Quick idea to catch every wholesale/catering inquiry
+2. Bird Rock Coffee: stop contact form leads from getting buried
+3. Simple AI helper for your La Jolla team
+
+EMAIL:
+Hi Bird Rock Coffee Roasters team — I’m reaching out from La Jolla. Noticed that wholesale/catering inquiries via website forms can easily get buried when things get busy.
+
+One practical idea: an AI intake + routing assistant that instantly reads each form submission, tags it (wholesale vs. catering vs. other), sends a quick “got it” reply, and posts it to the right inbox/Slack channel with key details—so nothing slips through.
+
+If you’re open to it, I can share a simple setup that works with your current tools.
+
+Open to a 10–15 minute chat next week?
+
+------------------------------
+BUSINESS: Communal Coffee,North Park,Google Business messages,Slow replies to FAQs hurt conversions
+
+SUBJECT OPTIONS:
+1. Quick idea to speed up Communal Coffee’s Google messages
+2. Stop losing orders to slow FAQ replies (North Park)
+3. AI auto-replies for Google Business—worth a 10-min chat?
+
+EMAIL:
+Hi Communal Coffee team—I'm reaching out from North Park. I noticed Google Business messages can get slow to reply, and when people ask quick FAQs (hours, menu, parking, Wi‑Fi), delays often mean they move on.
+
+One practical idea: an AI assistant that instantly answers common Google Business messages using your approved info, and only pings your team when it’s unsure or a special request.
+
+If you’d like, I can share a simple setup and pricing options. Open to a quick 10–15 minute chat this week?
+
+------------------------------
+BUSINESS: James Coffee Co.,Little Italy,Email inbox,Order questions + gift card questions take time
+
+SUBJECT OPTIONS:
+1. Quick way to handle order + gift card emails faster
+2. Idea to cut “where’s my order?” replies at James Coffee
+3. Automating your inbox (without losing the human touch)
+
+EMAIL:
+Hi James Coffee Co. team—  
+I’m reaching out with a simple idea for your Little Italy inbox. If order questions and gift card questions are taking time, you could add a lightweight AI reply assistant that drafts answers using your policies (order status, gift card balance/redemption, common FAQs), then you approve/send. It keeps your tone consistent and can cut response time without fully “auto-sending” anything.
+
+If you’re open to it, I’d love to share what this could look like for your workflow and tools.
+
+Open to a quick 10–15 minute chat next week?
+
+------------------------------
+BUSINESS: Portal Coffee,South Park,Instagram DMs,Missed DMs and pickup questions
+
+SUBJECT OPTIONS:
+1. Quick idea to reduce missed IG DMs at Portal Coffee (South Park)
+2. Fixing “missed DM” + pickup questions for Portal Coffee
+3. Can we help Portal Coffee reply to Instagram DMs faster?
+
+EMAIL:
+Hi Portal Coffee team — I’m reaching out because I’ve seen a lot of cafés get buried in Instagram DMs, especially with pickup questions (hours, menu, “is my order ready?”).
+
+I help small businesses set up lightweight AI automations. One practical idea: an Instagram DM auto-reply that instantly answers common pickup questions and collects the details you need (name, order time, pickup ETA), then routes anything unusual to a person.
+
+If you’re open to it, could we do a quick 10–15 minute chat to see if this would help Portal Coffee (South Park)?
+

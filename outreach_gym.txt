@@ -1,0 +1,63 @@
+1) **Subject:** Quick idea to cut down membership admin  
+Hi [Name],  
+I’m [Your Name]—I live/work near [Area]. I’ve been helping small local businesses use simple AI automations to save time.  
+One idea for a gym: an **automated “new lead → booked tour” text/email flow** that answers common questions (pricing, class times, childcare) and offers 2–3 tour slots, then drops booked tours into your calendar.  
+If you’re open, I can take a quick look at your current lead process and share what I’d automate (no pitch).  
+Worth a 10-minute call this week?  
+—[Your Name]  
+
+2) **Subject:** Missed calls → more tours booked (without extra staff)  
+Hi [Name],  
+When gyms get busy, the phone rings at the worst times. I build lightweight AI automations that help catch those moments.  
+A specific idea: a **missed-call text-back assistant** that immediately replies, “Hey! Want to book a tour or try a class?” and then collects name/goals and books a slot automatically.  
+It’s friendly, keeps your brand voice, and doesn’t replace staff—just covers gaps.  
+If you want, I can show an example workflow in 5–10 minutes.  
+—[Your Name]  
+
+3) **Subject:** Reducing no-shows for intro sessions  
+Hi [Name],  
+I’m [Your Name]. I help local businesses automate small tasks that quietly eat time.  
+For a gym, a practical automation is **no-show prevention**: once someone books an intro session, the system sends a timed sequence (SMS/email) with a waiver link, parking info, and a “confirm/reschedule” button. If they don’t confirm, it nudges them and opens the slot if needed.  
+Would it be helpful if I mapped this out for your current booking setup?  
+Happy to do it free—just curious if it’d help.  
+—[Your Name]  
+
+4) **Subject:** A simple way to re-engage inactive members  
+Hi [Name],  
+Hope your week’s going well. I work on AI automations for local service businesses.  
+One gym-specific idea: **inactive member reactivation**—if someone hasn’t checked in for 14/30 days, they get a friendly message like “Want a quick plan to get back in?” Then it offers a couple class options or a free 15-min check-in, and books it automatically.  
+Low pressure, but it brings people back.  
+If you tell me what system you use (Mindbody, Zen Planner, etc.), I can suggest a clean setup.  
+—[Your Name]  
+
+5) **Subject:** Automating review requests (without being annoying)  
+Hi [Name],  
+I’m [Your Name]. I help small teams set up AI workflows that run quietly in the background.  
+A specific automation for gyms: after a member hits a milestone (e.g., 10th visit or 30 days), send a **personalized review request** with a direct Google link. If they had an issue, it routes to a private feedback form instead.  
+It’s a nice way to grow reviews while catching problems early.  
+Open to a quick chat to see if that fits your vibe?  
+—[Your Name]  
+
+6) **Subject:** Quick win: answering FAQs without extra inbox time  
+Hi [Name],  
+I noticed gyms get the same questions all day—drop-in rates, class schedule, cancellations, parking, etc.  
+I build simple AI assistants that can **answer FAQs on your website/chat or email**, and hand off to a person when it’s not confident. It can also capture leads (“Want a free trial?”) and send them to your CRM.  
+If you’re curious, I can show a small demo using your public info—no commitment.  
+Would 10 minutes be inconvenient?  
+—[Your Name]  
+
+7) **Subject:** Streamlining waivers + intake forms  
+Hi [Name],  
+I’m [Your Name]. I do AI automation for local businesses—mostly reducing admin.  
+A gym-specific idea: **automate waivers/intake** so when someone books a trial class, they immediately get a mobile-friendly waiver + short goals questionnaire. Their answers can be summarized for the coach (“new to lifting, knee pain, wants fat loss”), so staff isn’t digging through forms.  
+If you’re already using a booking tool, this usually plugs in pretty easily.  
+Want me to outline what it would look like for you?  
+—[Your Name]  
+
+8) **Subject:** A small automation to boost class fill rates  
+Hi [Name],  
+Hope you’re doing well. I’m [Your Name], and I help set up low-key AI automations for local teams.  
+One practical gym idea: a **waitlist + last-minute fill system**—when someone cancels, it texts the waitlist in order and books the first “YES” automatically, then updates the class roster.  
+It’s simple but can save a lot of manual messaging.  
+If you’d like, I can share a quick workflow and what tools it needs.  
+—[Your Name]
